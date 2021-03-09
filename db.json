@@ -1,6 +1,5 @@
 { 
-  recipes:
-  [
+  "recipes": [
   {
     "id": 0,
     "title": "Neapolitana",
